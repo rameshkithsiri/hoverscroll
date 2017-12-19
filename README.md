@@ -1,2 +1,2 @@
 # hoverscroll
-Jquery mouseover scroll bars
+Jquery mouseover scroll bars with pure jquery and CSS
