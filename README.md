@@ -30,7 +30,3 @@ Add a `scrollX` and `scrollY` classes to your div.
 `<div class="scrollY"></div>`
 ### For horizontal scroll
 `<div class="scrollX"></div>`
-
-## Note
-
-**You cannot use scrollX and scrollY together**
